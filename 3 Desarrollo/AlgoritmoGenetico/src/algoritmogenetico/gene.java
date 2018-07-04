@@ -15,4 +15,6 @@ class gene {
 int b=1;
 int c=a+b;
 int as;
+int adf;
+int asdaf;
 }
